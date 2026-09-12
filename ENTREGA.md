@@ -1,14 +1,14 @@
 # Entrega del Trabajo Práctico Integrador
 
 ## Datos del participante
-Nombre y apellido: Ibañez Roberto Rodrigo
-Curso: Introducción a Git y GitHub para la Gestión de Proyectos Digitales
-Fecha de entrega: 11/09/2026
+- Nombre y apellido: Ibañez Roberto Rodrigo
+- Curso: Introducción a Git y GitHub para la Gestión de Proyectos Digitales
+- Fecha de entrega: 11/09/2026
 
 ## Enlaces
-Repositorio de GitHub: https://github.com/rodrigo1601/tp-integrador-git-Ibanez-Rodrigo.git
-Issue: https://github.com/rodrigo1601/tp-integrador-git-Ibanez-Rodrigo/issues/1
-Pull request: https://github.com/rodrigo1601/tp-integrador-git-Ibanez-Rodrigo/pull/2
+- Repositorio de GitHub: https://github.com/rodrigo1601/tp-integrador-git-Ibanez-Rodrigo.git
+- Issue: https://github.com/rodrigo1601/tp-integrador-git-Ibanez-Rodrigo/issues/1
+- Pull request: https://github.com/rodrigo1601/tp-integrador-git-Ibanez-Rodrigo/pull/2
 
 ## Comandos principales utilizados
 Durante el desarrollo del proyecto se utilizaron los siguientes comandos:

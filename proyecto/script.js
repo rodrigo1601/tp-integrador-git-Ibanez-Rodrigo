@@ -5,6 +5,9 @@ function calcularPromedio() {
 
     const promedio = (nota1 + nota2 + nota3) / 3;
 
-    document.getElementById("resultado").textContent =
-        "El promedio es: " + promedio.toFixed(2);
+    if (promedio >= 6){
+        document.getElementById("resultado").textContent = "Promedio: " + promedio.toFixed(2) + " - Aprobado";
+    } else {
+        document.getElementById("resultado").textContent = "Promedio: " + promedio.toFixed(2) + " - Desaprobado";
+    }
 }

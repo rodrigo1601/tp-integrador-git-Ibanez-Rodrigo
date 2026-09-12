@@ -18,4 +18,4 @@ El objetivo es desarrollar un proyecto simple de programación para aplicar conc
 Ibañez Roberto Rodrigo
 
 ## Estado del proyecto
-En curso.
+Finalizado.
